@@ -10,3 +10,5 @@ Ja, das macht sehr viel Sinn, danke VS Code.
 
 
 UPDATE: Tatsächlich sieht mittlerweile wieder alles gut aus, Github sagt jetzt, dass alle Commits von LauraHoell97 kommen. Spannend.
+
+Und hier ist der Link zu meinem PR in Ihrem Repo: https://github.com/edlich/education/pull/534

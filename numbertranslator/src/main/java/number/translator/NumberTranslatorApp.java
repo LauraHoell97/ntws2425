@@ -18,7 +18,7 @@ public class NumberTranslatorApp extends Application {
 
     private static final int SCENE_WIDTH = 640;
     private static final int SCENE_HEIGHT = 480;
-    private static final String[] LANGUAGES = { "german", "english", "french", "spanish" };
+    private static final String[] LANGUAGES = { "german", "english", "french", "spanish", "italian" };
 
     private static Scene scene;
 
@@ -140,7 +140,19 @@ public class NumberTranslatorApp extends Application {
                 digitNames.put('6', "seis");
                 digitNames.put('7', "siete");
                 digitNames.put('8', "ocho");
-                digitNames.put('9', "nuevo");
+                digitNames.put('9', "nueve");
+            }
+            case "italian" -> {
+                digitNames.put('0', "zero");
+                digitNames.put('1', "uno");
+                digitNames.put('2', "due");
+                digitNames.put('3', "tre");
+                digitNames.put('4', "quattro");
+                digitNames.put('5', "cinque");
+                digitNames.put('6', "sei");
+                digitNames.put('7', "sette");
+                digitNames.put('8', "otto");
+                digitNames.put('9', "nove");
             }
             // prinzipiell unmöglich aber warum nicht
             default -> throw new IllegalArgumentException("Unsupported language: " + language);

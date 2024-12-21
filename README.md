@@ -6,3 +6,7 @@ Dieses Problem muss ich bei Gelegenheit mal lösen, aber heute eher nicht mehr..
 ![lustig...](https://github.com/LauraHoell97/ntws2425/blob/main/screenshot_vscode.png?raw=true)
 
 Ja, das macht sehr viel Sinn, danke VS Code.
+
+
+
+UPDATE: Tatsächlich sieht mittlerweile wieder alles gut aus, Github sagt jetzt, dass alle Commits von LauraHoell97 kommen. Spannend.

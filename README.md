@@ -4,4 +4,5 @@ Also habe ich mich mit LauraHoell97 angemeldet, dieses Repo erstellt und gepusht
 Dieses Problem muss ich bei Gelegenheit mal lösen, aber heute eher nicht mehr...
 
 ![lustig...](https://github.com/LauraHoell97/ntws2425/blob/main/screenshot_vscode.png?raw=true)
+
 Ja, das macht sehr viel Sinn, danke VS Code.
